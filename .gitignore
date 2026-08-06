@@ -1,0 +1,43 @@
+# API Keys and Secrets
+.env
+*.env
+secrets.json
+
+# Local Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Python Caches & Environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.tox/
+.venv/
+venv/
+ENV/
+env/
+
+# Node/Angular dependencies
+node_modules/
+/dist/
+.angular/
+.npm/
+
+# OS/System files
+.DS_Store
+Thumbs.db
+*.log
+*.svg
+*.png
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
