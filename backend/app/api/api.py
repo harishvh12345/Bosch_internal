@@ -10,3 +10,4 @@ api_router.include_router(simulations.router, prefix="/simulations", tags=["simu
 api_router.include_router(quizzes.router, prefix="/quizzes", tags=["quizzes"])
 api_router.include_router(knowledge.router, prefix="/knowledge", tags=["knowledge-base"])
 api_router.include_router(recommendation.router, prefix="/recommendations", tags=["recommendations"])
+ #hello new comment
